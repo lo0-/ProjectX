@@ -1,0 +1,7 @@
+tr.clickable-row { cursor: pointer; }
+div.module-container{
+	border-style: dashed !important;
+}
+div.module{
+	margin: 1rem 0rem;
+}
